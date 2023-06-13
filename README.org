@@ -1,0 +1,10 @@
+* safety-params
+
+Check params
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/safety-params.git   |
+| commit  | 13e3091  |
+| systems | safety-params |
+|---------+-------------------------------------------|
+
